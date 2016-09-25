@@ -6,6 +6,7 @@
 
 ## Rankings
 268th out of 1274 teams globally.
+
 50th out of 262 teams in the North American Undergraduate bracket.
 
 ### Team Members
