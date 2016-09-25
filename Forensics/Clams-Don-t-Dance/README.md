@@ -10,7 +10,7 @@ Find the clam and open it to find the pearl.
 
 ## Write-up
 
-Using binwalk on the image will extract a ton of files. Most of it is useless, but you'll find something interesting in the ppt folder. 
+Using binwalk on the [image](https://github.com/isislab/CSAW-CTF-2016-Quals/blob/master/Forensics/Clams_Dont_Dance/out.img) will extract a ton of files. Most of it is useless, but you'll find something interesting in the ppt folder. 
 After navigating to media, you'll see 'image0.gif' which is a MaxiCode that contains the flag. 
 
 ### Flag
