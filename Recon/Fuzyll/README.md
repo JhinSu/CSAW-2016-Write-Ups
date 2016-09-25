@@ -34,7 +34,7 @@ challenge i ever scored points on
 So after doing some searching, we find that his first DefCon Finals waas 19 and that he was on a team
 called "Hates Irony". By simply brute forcing it, we find that it was tomato.
 
-* Step 2: After seeing my message in the alpha channel of the image, go to http://fuzyll.com/files/csaw2016/tomato as directed.
+* http://fuzyll.com/files/csaw2016/tomato
 
 So after going to the URL you'll find gibberish like this:
 
