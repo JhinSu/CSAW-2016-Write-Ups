@@ -10,8 +10,6 @@ All files are lowercase with no spaces. Start here: http://fuzyll.com/files/csaw
 Author: fuzyll
 
 ## Write-up
-* Step 0: Go to http://fuzyll.com/files/csaw2016/start
-
 ***
 CSAW 2016 FUZYLL RECON PART 1 OF ?: People actually liked last year's challenge, 
 so CSAW made me do it again... Same format as last year, new stuff you need to look up. 
@@ -22,7 +20,7 @@ Stalking him on Twitter reveals some [tweets](https://twitter.com/fuzyll/status/
 that give a hint to what kind of [color blindness](https://twitter.com/fuzyll/status/741830755463114752)
 he had. Of course you could also brute force it.
  
-* Step 1: Go to http://fuzyll.com/files/csaw2016/deuteranomaly as directed.
+* http://fuzyll.com/files/csaw2016/deuteranomaly
 
 You'll see an image of brownish strawberries, presumably what color blind people see. If you download the 
 image, it be downloaded normally as a txt file. If you open it you'll see this in the exif:
@@ -62,7 +60,7 @@ his [blog](http://fuzyll.com/2015/blackfathom-deep-dish/) that he was a part of 
 'Blackfathom Deep Dish' on US-Turalyon. He then used another website to track down the members
 and based off the join dates he determined that his IGN was elmrik.
 
-* Step 3: After decoding my EBCDIC message, go to http://fuzyll.com/files/csaw2016/elmrik as directed.
+* http://fuzyll.com/files/csaw2016/elmrik as directed.
 
 This part absolutely sucked. 
 
@@ -113,7 +111,7 @@ next part is at /csaw2016/<the winning player's tag>.
 It was pretty easy to figure out that he was at CEO 2016, and thanks to a fantastic [Reddit Community](https://www.reddit.com/r/smashbros/comments/4pnkud/ceo_2016_smash_4_singles_upsets_day_1/)
 and a bit of brute forcing we find out that the winning player's match of the stream he was on was Jade winning 2-1 over Trela.
 
-* Step 4: After decoding my base52 message, go to http://fuzyll.com/files/csaw2016/jade as directed.
+* http://fuzyll.com/files/csaw2016/jade
 
 This was absolutely easy to do on Linux due to the way that file types are determined there. I just unzipped it
 and opened the file. Finding a pretty [picture]().
@@ -129,8 +127,11 @@ of these ruins>.
 
 AFter using the reverse Google Images search I found that it was Wiñay Wayna, or Winay Wayna. 
 
-* Step 5: After unzipping the file and finding my message in EXIF go to http://fuzyll.com/files/csaw2016/winaywayna as directed.
-* Step 6: You win! Take the flag and submit it.
+* http://fuzyll.com/files/csaw2016/winaywayna 
+
+***
+CSAW 2016 FUZYLL RECON PART 6 OF 6: Congratulations! Here's your flag{WH4T_4_L0NG_4ND_STR4NG3_TRIP_IT_H45_B33N}.
+***
 
 ## Flag
 `flag{WH4T_4_L0NG_4ND_STR4NG3_TRIP_IT_H45_B33N}`
