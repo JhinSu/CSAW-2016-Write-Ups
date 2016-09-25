@@ -5,9 +5,7 @@
 **Solves:** 170
 **Description:**
 
-I found this zip file that should have evidence about someone cheating. But for some reason, everything is broken!!
-
-Can you try to figure out what's up?
+As part of CSAW CTF's ongoing efforts to terminate cheaters with extreme prejudice, we were supposed to have evidence incriminating a handful of teams in this zip file. I do not know what happened, but I do not think the evidence actually made it in there...
 
 ## Write-up
 Strings evidence.zip
