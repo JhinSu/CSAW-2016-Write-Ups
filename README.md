@@ -14,7 +14,7 @@
 ![Screenshot](NAUndergrad_Bracket.jpg)
 
 ### Team Members
-Althea Meer
-Janice Lu
-Mattias Lambert
-Lars Montanaro
+Althea Meer,
+Janice Lu,
+Mattias Lambert,
+Lars Montanaro,
