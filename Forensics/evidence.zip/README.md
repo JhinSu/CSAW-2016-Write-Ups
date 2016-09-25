@@ -58,5 +58,7 @@ out/8y10tp04b2
 out/eui6ltoijl
 *** 
 
+IF you put it all together you'll get {neffeleerf#_d33n_3w_n4i11iv_3ht}galf or 
+
 ## Flag
 Flag: `flag{th3_vi11i4n_w3_n33d_#freeleffen}`
