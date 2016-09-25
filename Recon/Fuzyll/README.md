@@ -60,7 +60,7 @@ his [blog](http://fuzyll.com/2015/blackfathom-deep-dish/) that he was a part of 
 'Blackfathom Deep Dish' on US-Turalyon. He then used another website to track down the members
 and based off the join dates he determined that his IGN was elmrik.
 
-* http://fuzyll.com/files/csaw2016/elmrik as directed.
+* http://fuzyll.com/files/csaw2016/elmrik
 
 This part absolutely sucked. 
 
