@@ -18,13 +18,13 @@ Find the subreddit [r/ericliang](https://www.reddit.com/r/ericliang).
 Looking for "nyc meetup hackster intel edison" on Google, the first result is a 
 [Meetup event](http://www.meetup.com/Hackster-NYC/events/232881069/).
 
-His Meetup event [profile](http://www.meetup.com/Hackster-NYC/members/175983362/) 
-picture matches his GitHub profile picture; so it is the right Eric Liang. 
-His introduction is "I love fanfiction and Allen Lau!".
+His Meetup event [profile](http://www.meetup.com/Hackster-NYC/members/175983362/) matches his name. 
+His location is in Brooklyn and his account was made in Aug. 27th, 2016; just in time for CSAW'16.
+His introduction says "I love fanfiction and Allen Lau!".
 
 Allen Lau is a founder of Wattpad, which is a site where users can post their stories. 
-Searching for Eric Liang on Wattpad, 20 people show up, but there is the one and only 
-[Eric Zhi Liang](https://www.wattpad.com/user/ericZhiLiang) with a Missing Poster. The flag is on the left of his profile.
+After trying to find his profile and failing, I handed the reigns over to Janice who just typed in ericzhiliang as the user profile...
+and boom the right [Eric Zhi Liang](https://www.wattpad.com/user/ericZhiLiang) was found, and so was the flag. The flag is on the left of his profile.
 
 
 ## Flag
