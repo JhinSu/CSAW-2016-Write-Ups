@@ -114,7 +114,7 @@ and a bit of brute forcing we find out that the winning player's match of the st
 * http://fuzyll.com/files/csaw2016/jade
 
 This was absolutely easy to do on Linux due to the way that file types are determined there. I just unzipped it
-and opened the file. Finding a pretty ![picture](jade.jpg).
+and opened the file. Finding a pretty picture. ![picture](jade.jpg)
 
 After checking the EXIF again you find this:
 
