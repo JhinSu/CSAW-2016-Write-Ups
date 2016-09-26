@@ -23,7 +23,7 @@ he had. Of course you could also brute force it.
 * http://fuzyll.com/files/csaw2016/deuteranomaly
 
 You'll see an image of brownish strawberries, presumably what color blind people see. If you download the 
-image, it be downloaded normally as a txt file. If you open it you'll see this in the exif:
+image, it'll be downloaded normally as a txt file. If you open it you'll see this in the exif:
 
 ***
 CSAW 2016 FUZYLL RECON PART 2 OF ?: No, strawberries don't look exactly like this, but it's
@@ -114,7 +114,7 @@ and a bit of brute forcing we find out that the winning player's match of the st
 * http://fuzyll.com/files/csaw2016/jade
 
 This was absolutely easy to do on Linux due to the way that file types are determined there. I just unzipped it
-and opened the file. Finding a pretty [picture]().
+and opened the file. Finding a pretty ![picture](jade.jpg).
 
 After checking the EXIF again you find this:
 
